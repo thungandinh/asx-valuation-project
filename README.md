@@ -8,11 +8,11 @@ An interactive, web-based quantitative finance dashboard built with **Python**, 
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 You can access the live, interactive web application here: 
 👉 [ASX Valuation Dashboard on Streamlit](https://asx-valuation-project-wggvc6gztdlao58mmgfkph.streamlit.app/)
 
-## 🌟 Key Features
+## Key Features
 
 - **Real-Time Market Data Integration:** Dynamically fetches financial data, historical price trends, and fundamental metrics directly via `yfinance`.
 - **Automated Valuation Models:**
@@ -24,7 +24,7 @@ You can access the live, interactive web application here:
 
 ---
 
-## 🛠️ Tech Stack & Dependencies
+## Tech Stack & Dependencies
 
 - **Language:** Python 3.9+
 - **Frontend / Framework:** Streamlit
@@ -34,7 +34,7 @@ You can access the live, interactive web application here:
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 ```text
 asx-valuation-project/
@@ -42,12 +42,10 @@ asx-valuation-project/
 ├── app.py                  # Main Streamlit application entry point
 ├── requirements.txt        # Python package dependencies
 ├── README.md               # Project documentation
-└── data/                   # (Optional) Benchmark or static data resources
-```
 
 ---
 
-## 🚀 Local Installation & Quickstart
+## Local Installation & Quickstart
 
 To run this dashboard locally on your machine, follow these steps:
 
@@ -79,7 +77,7 @@ To run this dashboard locally on your machine, follow these steps:
 
 ---
 
-## 📊 Usage & How It Works
+## Usage & How It Works
 
 1. Enter any valid **ASX Ticker Symbol** (e.g., `BHP.AX`, `CBA.AX`, `TLS.AX`) in the sidebar search box.
 2. View real-time pricing, historical performance, and company key metrics.
@@ -87,12 +85,9 @@ To run this dashboard locally on your machine, follow these steps:
 
 ---
 
-## 👤 Author
+## Author
 
 **Ngan Dinh**  
 *Bachelor of Commerce (Finance & Business Analytics) Student at The University of Sydney (USYD)*  
 - **GitHub:** [@thungandinh](https://github.com/thungandinh)
 - **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/)
-
----
-*Feel free to star ⭐️ this repository if you find it helpful!*me.md…]()
