@@ -87,7 +87,7 @@ To run this dashboard locally on your machine, follow these steps:
 
 ## Author
 
-**Ngan Dinh**  
+**Thu Ngan Dinh**  
 *Bachelor of Commerce (Finance & Business Analytics) Student at The University of Sydney (USYD)*  
 - **GitHub:** [@thungandinh](https://github.com/thungandinh)
 - **LinkedIn:** [Connect on LinkedIn](https://www.linkedin.com/)
